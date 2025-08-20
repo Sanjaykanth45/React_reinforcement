@@ -3,7 +3,7 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: black !important; 
+    background: linear-gradient(135deg, #0f0f0f, #1a1a2e); 
     color: white; 
     min-height: 100vh; 
     overflow-x: hidden; 

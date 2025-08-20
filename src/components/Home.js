@@ -13,7 +13,7 @@ function Home() {
       I bring ideas to life – from concept to deployment.
     </p>
     <div className="buttons">
-      <a href="#projects" className="btn btn-secondary">View My Work</a>
+      <a href="/portfolio" className="btn btn-secondary">View My Work</a>
       <a href="https://drive.google.com/file/d/1hrhTtw6pN6RLgHnl76e0yajV9EhYytvj/view?usp=sharing" className="btn btn-success">Download Resume</a>
     </div>
   </div>
